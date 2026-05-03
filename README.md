@@ -1,5 +1,3 @@
-# My-Projects-Collection.io
-
 # My-Projects-Collection
 
 [🔗 Click here to view my Live Portfolio Website](http://127.0.0.1:5500/index.html)

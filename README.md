@@ -1,6 +1,6 @@
 # My-Projects-Collection
 
-[🔗 Click here to view my Live Portfolio Website](http://127.0.0.1:5500/index.html)
+[🔗 Click here to view my Live Portfolio Website](https://svetaokun10.github.io/My-Projects-Collection.io/)
 
 ### 📊  Power BI Sales Performance Dashboard 
 [🔗 Click here to view the Full Report (PDF)](./Power%20BI%20Project.pdf)

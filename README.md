@@ -1,5 +1,8 @@
 # My-Projects-Collection
 
+<a href="https://svetaokun10.github.io/My-Projects-Collection.io/" target="_blank">🔗 Click here to view my Live Portfolio Website</a>
+
+https://svetaokun10.github.io/My-Projects-Collection.io/
 [🔗 Click here to view my Live Portfolio Website](https://svetaokun10.github.io/My-Projects-Collection.io/)
 
 ### 📊  Power BI Sales Performance Dashboard 
